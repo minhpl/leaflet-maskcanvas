@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Leaflet MaskCanvas
 
 A leaflet canvas layer for displaying large coverage data sets.
@@ -83,3 +84,7 @@ Run the demo locally with `python -m SimpleHTTPServer` and then open http://0.0.
 ## Acknowledgement
 
 The QuadTree implementation comes from https://github.com/jsmarkus/ExamplesByMesh/tree/master/JavaScript/QuadTree and has been slightly modified. Original Implementation by Mike Chambers.
+=======
+# map
+beta
+>>>>>>> 50bfc5ef458f0a67568e04c7bced3bc2f8320705
